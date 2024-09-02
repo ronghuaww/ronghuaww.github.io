@@ -1,5 +1,6 @@
 body {
     margin: 40px;
+    font-size: large;
 }
 
 .title-text {
@@ -20,7 +21,7 @@ body {
 }
 
 .side-image-block {
-    width: 100%; 
+    width: 90%; 
 }
 
 .headshot {
